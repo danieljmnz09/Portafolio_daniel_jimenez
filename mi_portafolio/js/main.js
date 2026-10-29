@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'Juego del Destino',
       tags: 'HTML · PYTHON · CSS',
       desc: 'Un juego interactivo de decisiones múltiples en tiempo real. Utiliza eventos de teclado/ratón, animaciones dinámicas mediante manipulaciones del DOM y lógica algorítmica en JavaScript.',
-      github: 'https://github.com/danieljimenez/juego-del-destino'
+      github: 'https://github.com/danieljmnz09/Skillnest_fullstack_phyton/tree/main/python/Core/juego_destino_(CORE)_jimenez_daniel'
     },
     'tasktrack': {
       title: 'TaskTrack',
